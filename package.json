@@ -1,0 +1,23 @@
+{
+  "name": "shafile",
+  "version": "0.0.0",
+  "description": "async sha file using built in crypto.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/soldair/node-shafile.git"
+  },
+  "keywords": [
+    "sha",
+    "file"
+  ],
+  "author": "Ryan Day",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "devDependencies": {
+    "tap": "~0.4.1"
+  }
+}
