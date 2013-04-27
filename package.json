@@ -18,6 +18,6 @@
   "license": "MIT",
   "readmeFilename": "README.md",
   "devDependencies": {
-    "tap": "~0.4.1"
+    "tape": "~0.3.3"
   }
 }
