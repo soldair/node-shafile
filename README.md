@@ -1,5 +1,5 @@
 
-[![Build Status](https://secure.travis-ci.org/soldair/node-walkdir.png)](http://travis-ci.org/soldair/node-walkdir)
+[![Build Status](https://secure.travis-ci.org/soldair/node-shafile.png)](http://travis-ci.org/soldair/node-shafile)
 
 shafile
 =======
